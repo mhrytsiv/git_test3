@@ -1,7 +1,7 @@
 public Class {
-	public static final Object object;
+	public static final String str1;
 	
-	public static final Integer _int;	
+	public static final String str2;	
 	
 	public static void main () {
 		String s = "ssssss";
