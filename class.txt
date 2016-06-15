@@ -1,7 +1,7 @@
 public Class {
-	public static final Integer int1;
+	public static final Short short1;
 	
-	public static final Integer int2;	
+	public static final Short short1;	
 	
 	public static void main () {
 		String s = "ssssss";
